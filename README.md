@@ -1,2 +1,5 @@
-# Remote-Control
-shared items
+# URL
+https://github.com/ktpairit/Remote-Control
+
+# Resources
+*
